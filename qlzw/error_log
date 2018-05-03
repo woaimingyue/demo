@@ -1,0 +1,57 @@
+[20-Jun-2017 09:07:20 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:33:12 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:33:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 11
+[20-Jun-2017 09:33:15 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:33:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 11
+[20-Jun-2017 09:33:18 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:33:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 11
+[20-Jun-2017 09:33:28 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:33:28 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 11
+[20-Jun-2017 09:34:35 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:34:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 11
+[20-Jun-2017 09:34:37 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:34:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 11
+[20-Jun-2017 09:34:39 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:34:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 11
+[20-Jun-2017 09:34:44 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:34:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 11
+[20-Jun-2017 09:35:07 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:35:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 11
+[20-Jun-2017 09:35:13 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:35:13 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 11
+[20-Jun-2017 09:38:04 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:38:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 12
+[20-Jun-2017 09:38:08 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:38:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 12
+[20-Jun-2017 09:38:09 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:38:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 12
+[20-Jun-2017 09:39:37 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:42:03 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/unamecom/public_html/index.php on line 8
+[20-Jun-2017 09:42:07 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/unamecom/public_html/index.php on line 8
+[20-Jun-2017 09:43:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/unamecom/public_html/index.php on line 8
+[20-Jun-2017 09:43:34 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/unamecom/public_html/index.php on line 8
+[20-Jun-2017 09:43:37 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/unamecom/public_html/index.php on line 8
+[20-Jun-2017 09:43:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/unamecom/public_html/index.php on line 8
+[20-Jun-2017 09:44:15 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:44:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/unamecom/public_html/index.php on line 15
+[20-Jun-2017 09:48:13 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:48:13 America/Chicago] PHP Notice:  Undefined variable: lnk in /home/unamecom/public_html/index.php on line 9
+[20-Jun-2017 09:48:13 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/unamecom/public_html/index.php on line 9
+[20-Jun-2017 09:49:20 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:51:09 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:51:11 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:51:14 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:52:45 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:52:48 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:52:50 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:52:57 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:53:22 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:53:24 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:53:25 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:53:46 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:56:34 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:58:23 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 09:59:43 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 12:04:56 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 12:04:56 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3
+[20-Jun-2017 16:10:15 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/unamecom/public_html/index.php on line 3

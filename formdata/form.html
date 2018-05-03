@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>upfile</title>
+    <script language="JavaScript" src="../jquery-easyui/jquery.min.js"></script>
+</head>
+<body>
+<div class="parent">
+    <form id="myForm" name="myForm">
+        <div>
+            <label for="username">Enter name:</label>
+            <input type="text" id="username" name="username">
+        </div>
+        <div>
+            <label for="useracc">Enter account number:</label>
+            <input type="text" id="useracc" name="useracc">
+        </div>
+        <div>
+            <label for="userfile">Upload file:</label>
+            <input type="file" id="userfile" name="userfile">
+        </div>
+        <input type="submit" onclick="return bfSubmit(this);" value="Submit!">
+    </form>
+
+    <form id="myForm2" name="myForm">
+        <div>
+            <label for="username">Enter name:</label>
+            <input type="text" id="username" name="username">
+        </div>
+        <div>
+            <label for="useracc">Enter account number:</label>
+            <input type="text" id="useracc" name="useracc">
+        </div>
+        <div>
+            <label for="userfile">Upload file:</label>
+            <input type="file" id="userfile" name="userfile">
+            <span class="img">
+        </span>
+        </div>
+        <input type="submit" onclick="return bfSubmit(this);" value="Submit!">
+    </form>
+</div>
+<script>
+    function bfSubmit(element) {
+        var id = $(element).parent().attr('id');
+        var formData = new FormData(eval('(' + id + ')'));
+
+        for (var val of formData.entries() ) {
+            console.log(val[0]+'-'+val[1])
+        }
+        return false;
+    }
+
+</script>
+</body>
+</html>

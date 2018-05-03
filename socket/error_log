@@ -1,0 +1,90 @@
+[26-Apr-2017 01:45:02 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:02 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:02 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:02 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:22 America/Chicago] PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /home/unamecom/public_html/socket/server.php on line 25
+[26-Apr-2017 01:45:27 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:27 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:27 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:27 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:28 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:28 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:28 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:28 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:31 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:31 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:31 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:31 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:34 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:34 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:34 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:34 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:36 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:36 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:36 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:36 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:38 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:38 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:38 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:38 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:42 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:42 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:42 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:42 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:43 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:43 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:43 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:43 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:44 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:44 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:44 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:44 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:47 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:47 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:47 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:47 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:48 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:48 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:48 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:48 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:49 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:49 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:49 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:49 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:51 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:51 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:51 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:51 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:45:57 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:45:57 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:45:57 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:45:57 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:46:03 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:46:03 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:46:03 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:46:03 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:46:04 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:46:04 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:46:04 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:46:04 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:46:05 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:46:05 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:46:05 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:46:05 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:46:05 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:46:05 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:46:05 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:46:05 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:46:06 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:46:06 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:46:06 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:46:06 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:46:20 America/Chicago] PHP Warning:  socket_bind(): unable to bind address [98]: Address already in use in /home/unamecom/public_html/socket/server.php on line 25
+[26-Apr-2017 01:46:25 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:46:25 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:46:25 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:46:25 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51
+[26-Apr-2017 01:46:26 America/Chicago] PHP Warning:  socket_connect(): unable to connect [111]: Connection refused in /home/unamecom/public_html/socket/clien.php on line 30
+[26-Apr-2017 01:46:26 America/Chicago] PHP Warning:  socket_write(): unable to write to socket [32]: Broken pipe in /home/unamecom/public_html/socket/clien.php on line 45
+[26-Apr-2017 01:46:26 America/Chicago] PHP Warning:  socket_strerror() expects parameter 1 to be long, resource given in /home/unamecom/public_html/socket/clien.php on line 46
+[26-Apr-2017 01:46:26 America/Chicago] PHP Warning:  socket_read(): unable to read from socket [107]: Transport endpoint is not connected in /home/unamecom/public_html/socket/clien.php on line 51

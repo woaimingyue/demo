@@ -1,0 +1,35 @@
+<html>
+<head>
+    <title>title</title>
+    <script type="text/javascript" src="../Easyui/jquery.min.js"></script>
+
+</head>
+<body>
+<div>
+    <ul>
+        <li>omg</li>
+        <li>we</li>
+    </ul>
+</div>
+</body>
+<script>
+    (function () {
+        // 关闭窗口时弹出确认提示
+        $(window).bind('unload', function () {
+
+            console.log(1);
+            return false;
+            // 只有在标识变量is_confirm不为false时，才弹出确认提示
+            if (window.is_confirm !== false)
+                return '您可能有数据没有保存';
+        })
+        // mouseleave mouseover事件也可以注册在body、外层容器等元素上
+            $('body').bind('mouseover mouseleave', function (event) {
+                console.log(2);
+
+                return false;
+                is_confirm = event.type == 'mouseleave';
+            });
+    })();
+</script>
+</html>

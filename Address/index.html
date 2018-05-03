@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>省市区三级联动</title>
+    <script language="JavaScript" src="../jquery-easyui/jquery.min.js"></script>
+    <script type="text/javascript" src="province_city.js"></script>
+</head>
+<body>
+<div id="main">
+    <select id="province" name="province">
+    </select>
+    <select id="city" name="city">
+    </select>
+    <select id="area" name="area">
+    </select>
+    <div>
+        地址是：<span id="pro_city"></span> <input id="txtProCity" type="text"/>
+    </div>
+</div>
+<script>
+    $(function(){
+        $('main').addEvents({
+            'click:relay(#province)': function (e) {
+                alert(1)
+            }
+        })
+    })
+
+
+
+
+    var str = ['addDesting', 'editDesting', 'addCity', 'editCity'];
+    var decimal = ['Desting', 'City'];
+
+    var result = split_str(str[1], decimal);
+    console.log(result)
+
+    function split_str(str, decimal=[]) {
+        if (decimal instanceof Array) {
+            var lengths = decimal.length;
+            var new_str = '';
+            for (var i = 0; i < lengths; i++) {
+                var split_str = str.split(decimal[i]);
+                if (split_str != str) {
+                    var new_str = split_str;
+                }
+            }
+            return new_str;
+        }
+    }
+
+    var Methods = {
+        getData: function (name=[]) {
+            console.log(name);
+        },
+        postData: function (callback) {
+            var data = 888;
+            callback(data);
+        },
+        callback: function (data) {
+            var result = data + 222;
+            console.log(result);
+        }
+    }
+
+
+</script>
+</body>
+</html>
